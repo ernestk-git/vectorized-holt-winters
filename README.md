@@ -4,7 +4,7 @@ A Python 3 implementation of the Holt Winters exponential smoothing models utili
 
 ## Currently Implemented
 
-* Single (Simple) Exponential Smoothing Function and Example Notebook
+* [Single (Simple) Exponential Smoothing Function and Example Notebook](https://medium.com/p/6b18671b320b)
 
 ## Roadmap
 
